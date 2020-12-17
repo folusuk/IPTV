@@ -6,7 +6,7 @@ Required ZIP for each system is uploaded.
 
 Clone files to system
 ~~~~
-git clone https://github.com/INUI-Dev/IPTV.git
+git clone https://github.com/folusuk/IPTV.git
 ~~~~
 
 cd to IPTV folder and mv files to root
